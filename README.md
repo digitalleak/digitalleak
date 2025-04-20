@@ -1,52 +1,90 @@
-<h1 align="center">🔥 digitalleak - Maîtrise le monde de l’hébergement 🔥</h1>
+<h1 align="center">🚀 SKY-HOST.FR — HÉBERGEMENT PUISSANCE MAXIMALE 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Dominé-00cc66?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Nginx-Boosté-009900?style=for-the-badge&logo=nginx" />
-  <img src="https://img.shields.io/badge/VPS%20Life-24/7-blue?style=for-the-badge&logo=proxmox" />
-  <img src="https://img.shields.io/badge/DDoS-Absorbé-black?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/OVH%20Ready-Yes-blue?style=for-the-badge&logo=ovh" />
+  <img src="https://img.shields.io/badge/Sécurité-Béton-ff0000?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Uptime-99.99%25-brightgreen?style=for-the-badge&logo=cloud" />
+  <img src="https://img.shields.io/badge/Support-24%2F7-orange?style=for-the-badge&logo=discord" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/FyW8r5j.gif" width="600" alt="Sky-Host Banner"/>
 </p>
 
 ---
 
-### 🧠 À propos de moi :
+## 🌐 Qui sommes-nous ?
 
-- 👾 Pseudo : `@digitalleak`
-- 🧬 ADN : 100% hébergeur, 0% bullshit
-- 🛠️ Je crée, je détruis, je reconstruis des infrastructures plus solides que ton ex
-- 🌍 Objectif : **décentraliser**, **sécuriser** et **automatiser** l’hébergement web
-- 🧰 Stack préférée : `Debian`, `Nginx`, `Docker`, `Proxmox`, `Fail2Ban`, `iptables`, `OVH` (quand ils font pas n’importe quoi)
-- 🔐 Obsession : **Sécurité & performance** – si ton site charge en plus d’1s, je le refais à zéro
+**Sky-Host.fr**, c’est pas juste un hébergeur.  
+C’est **ton allié** dans le monde numérique.  
+Infra robuste, support réactif, services calibrés pour les pros et les passionnés.
 
----
-
-### 💼 Projets actuels
-
-🚀 `Infra-as-Code` pour automatiser le déploiement complet d’un hébergeur perso  
-🧠 Panel custom full API – plus léger que Plesk et plus flexible que cPanel  
-🔥 Système de détection + mitigation DDoS en temps réel avec alertes Telegram
+> “Pourquoi héberger ailleurs quand tu peux héberger chez les boss ?”
 
 ---
 
-### 🤝 Collaboration
+## 🔧 Nos Services
 
-Tu codes sale, t’as des idées folles, ou tu veux bosser sur des trucs d’hébergeurs borderline ?  
-DM moi. Je suis open à tout sauf à l’amateurisme.
-
-📫 Contact :
-- Discord : `digitalleak#0000`
-- Email : `contact@digitalleak.zone`  
-*(ou envoie une requête POST sur mon endpoint privé si t’es vraiment chaud)*
+🔥 **VPS Hautes Performances**  
+🛡️ **Protection Anti-DDoS Avancée (L7 / L4)**  
+🚀 **Panneaux de gestion ultra clean (Pterodactyl, cPanel, Proxmox)**  
+💾 **Sauvegardes automatiques et restaurations easy**  
+💡 **Nom de domaine + SSL offert avec certaines offres**
 
 ---
 
-### ⚡ Fun fact :
+## ⚙️ Notre Stack Technique
 
-> J’ai déjà hébergé des sites dans 3 pays, 2 datacenters, et 1 garage. Le garage était le plus stable.
+- 🐧 Debian, Ubuntu, Rocky Linux
+- 🧱 NGINX, Apache, PHP-FPM, MariaDB
+- 🐳 Docker / LXC Containers
+- 🛰️ Proxmox VE
+- 🔐 FirewallD, Fail2Ban, IPSet
+- 💬 Monitoring avec Grafana & Prometheus
 
 ---
 
-```bash
-# digitalleak/digitalleak
-# Ce dépôt est une porte vers le backroom de l’hébergement.
-# Tu crois que t’es prêt ? Clone-le.
+## 💬 Contact & Réseaux
+
+📧 contact@sky-host.fr  
+🌐 https://sky-host.fr  
+💬 Discord : [Rejoins la communauté](https://discord.gg/skyhost)
+
+---
+
+## 🧠 Pourquoi Sky-Host.fr ?
+
+| Caractéristique     | Sky-Host.fr ✅ | Les autres ❌ |
+|---------------------|----------------|----------------|
+| Protection DDoS     | Niveau Datacenter | Limitée |
+| Support 24/7        | Humain & rapide  | Bot ou mails |
+| Custom Panel        | Oui, sur-mesure | Non |
+| Uptime              | 99.99%+         | instable |
+| Rapport Qualité/Prix | Imbattable 💥  | Surcoté 💸 |
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/ihN1tf4.gif" width="400" alt="server loading"/>
+</p>
+
+---
+
+## 🤖 En développement
+
+- ✅ Script d’installation automatique de serveur web
+- ✅ Script anti-DDoS dynamique
+- 🔜 Intégration WHMCS + API custom
+- 🔜 Panel cloud full développé maison (interface ultra rapide)
+
+---
+
+## 🔥 Tu veux un vrai hébergeur ?  
+**Rejoins la légende. Rejoins Sky-Host.fr.**  
+🛠️ On héberge tout, sauf les excuses.
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/JGD7BJ8.gif" width="450" alt="SkyHost Glitch"/>
+</p>
