@@ -72,7 +72,7 @@
 ## 🔗 Liens utiles
 
 - 🌐 [Site officiel](https://sky-host.fr)  
-- 💬 [Discord de la meute](https://discord.gg/skyhost)  
+- 💬 [Discord de la meute](https://discord.gg/sky-host)  
 - 📬 contact@sky-host.fr  
 - 🧠 [Docs & guides techniques](https://docs.sky-host.fr)
 
